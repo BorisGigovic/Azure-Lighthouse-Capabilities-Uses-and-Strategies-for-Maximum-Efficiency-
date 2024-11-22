@@ -1,4 +1,4 @@
-# Azure Lighthouse Capabilities Uses and Strategies for Maximum Efficiency- 
+# Azure Lighthouse Capabilities Uses and Strategies for Maximum Efficiency
 
 Azure Lighthouse is a powerful service within Microsoft Azure that empowers managed service providers (MSPs) and enterprises to manage multiple customer environments seamlessly and securely from a single control pane. Introduced to enhance cross-tenant management capabilities, Azure Lighthouse enables organizations to simplify operations, increase efficiency, and ensure security when managing many Azure subscriptions. 
 
